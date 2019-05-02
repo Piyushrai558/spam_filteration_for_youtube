@@ -1,0 +1,6 @@
+flask
+pandas
+pickle 
+scikit
+seaborn
+numpy
