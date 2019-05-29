@@ -7,11 +7,10 @@ And after merging the data in single csv file and removing stop words , and usin
 
 # steps involved 
 
-**Step 1** - Install all modules in the requirement.txt file simply -- pip install -r requirement.txt
-**Step 2** - Second run jupyter notebook file in data folder 
-**Step 3** - Third after running you can see the YtbSpam_model.pkl
-**Step 4** - run app.py here you got your interface on localhost 127.0.0.1:5000
-: 
+>**Step 1** - Install all modules in the requirement.txt file simply -- pip install -r requirement.txt
+>**Step 2** - Second run jupyter notebook file in data folder 
+>**Step 3** - Third after running you can see the YtbSpam_model.pkl
+>**Step 4** - run app.py here you got your interface on localhost 127.0.0.1:5000
 
 
 
